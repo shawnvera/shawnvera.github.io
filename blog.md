@@ -21,7 +21,7 @@ Instrumental music helps me concentrate. Odd I know but it just works. I'm also 
 
 Random fact about me: The Matrix is one of my favorite movies, but the sequels were just not good.  
 
-Here is a code example that I was able to get a refresher on this week using JavaScrfipt.
+Here is a code example that I was able to get a refresher on this week using JavaScript.
 
 ```javascript
 let btn = document.createElement('button');
