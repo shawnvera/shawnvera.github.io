@@ -19,4 +19,18 @@ I'm excited to learn more about JavaScript and Python. Honestly, I'm excited for
 
 Instrumental music helps me concentrate. Odd I know but it just works. I'm also really into tech (I know, shocking, right? lol). 
 
-Random fact about me: The Matrix is one of my favorite movies, but the sequels were just not good.
+Random fact about me: The Matrix is one of my favorite movies, but the sequels were just not good.  
+
+Here is a code example that I was able to get a refresher on this week using JavaScrfipt.
+
+```javascript
+let btn = document.createElement('button');
+btn.textContent = 'Dark';
+document.body.appendChild(btn);
+btn.addEventListener('click', () => {
+    if (btn.textContent === 'Darken')
+    darken();
+    else
+    lighten();
+})
+```
