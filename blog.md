@@ -1,5 +1,7 @@
 # Shawn Vera's blog  
 
+### Week 1 Awesome inc. Summer 2023 Bootcamp ###
+
 ![Picture of the Matrix image of green binary code streaming downward against a black background.](https://cdn.pixabay.com/photo/2014/05/27/23/32/matrix-356024_1280.jpg)
 
 
@@ -14,4 +16,7 @@ I'm excited to learn more about JavaScript and Python. Honestly, I'm excited for
 
 
 *What is something about you that can only be learned by reading this blog?*  
-Instrumental music helps me concentrate. Odd I know but it just works. I'm also really into tech (I know, shocking, right? lol). Random fact: The Matrix is one of my favorite movies.
+
+Instrumental music helps me concentrate. Odd I know but it just works. I'm also really into tech (I know, shocking, right? lol). 
+
+Random fact about me: The Matrix is one of my favorite movies, but the sequels were just not good.
