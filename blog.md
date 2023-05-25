@@ -1,5 +1,8 @@
-# Shawn Vera's blog
-* Was your first week what you expected? Why? Why not? *
-The first week of the Awesome inc. bootcamp was what I expected, although it exceeded those expectations. I expected a lot of information in a short period of time as it is a bootcamp, but the amount of information was still overwhelming. It's all very good information, and seeing how much information there is in the first week will help me plan my workflow better in the second week and beyond.
-* What are you excited or eager to learn more about? *
-* What is something about you that can only be learned by reading this blog? *
+# Shawn Vera's blog  
+![Picture of the Matrix images of green binary code streaming down against a black background.] (https://cdn.pixabay.com/photo/2014/05/27/23/32/matrix-356024_1280.jpg)  
+*Was your first week what you expected? Why? Why not?*  
+The first week of the Awesome inc. bootcamp was what I expected, although it exceeded those expectations. I expected a lot of information in a short period of time as it is a bootcamp, but the amount of information was still overwhelming. It's all very good information, and seeing how much information there is in the first week will help me plan my workflow better in the second week and beyond.    
+*What are you excited or eager to learn more about?*  
+I'm excited to learn more about JavaScript and Python. Honestly, I'm excited for most of the upcoming topics.  
+*What is something about you that can only be learned by reading this blog?*  
+Instrumental music helps me concentrate. Odd I know but it just works. I'm also really into tech (I know, shocking, right? lol). Random fact: The Matrix is one of my favorite movies.
