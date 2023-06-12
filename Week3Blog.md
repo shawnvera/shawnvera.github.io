@@ -1,4 +1,3 @@
- basic-blog
 What is the number one thing that held you back this week? Why?
 
 Being able to fully connect with state management of Javascript really held me back this week. The readings, videos, and outside searches helped, but I didn't fully attain enough understanding to put it all together. I was able to get the mind reader project completed, but I still am interested in learning more about state management.
