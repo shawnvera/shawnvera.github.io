@@ -1,4 +1,4 @@
-*Sprint 2 - VanillaJS
+**Sprint 2 - VanillaJS**
 Create a blog post teaser on the Blog page.  Link the blog post teaser to a new blog-post-sprint-2.html page using HTML, CSS, and Bootstrap. Your blog post teaser and blog post should be styled to match your blog post wireframe and 'styleguide.html' that you created earlier in the course.
 
 Once you have created a blog post please submit the link to your blog post in order to complete the assignment.*
