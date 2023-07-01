@@ -1,0 +1,7 @@
+**What is pseudocode and how does it help with programming?**
+
+Anyone new to programming may be in for a surprise when the journey starts with writing pseudocode instead of a programming language. I defintely didn't know the importance of pseudocode before starting a bootcamp. Pseudocode is a way to explain the logic behind the coding language in a way that people without a computer background or interest would be able to understand. It helps us identify the issue, and to solidify our logic behind the problem. Pseudocode can be used to solve the same problme in different programming languages, which makes it a very useful tool. 
+
+Pseudocode helps with programming by taking the logic problem out of the project before getting into a programming language. It allows us separate our problems and solve them independently. Once you move into a programming you shouldn't have to worry about solving the logic, and will be free to solve the syntax issues with whichever programming language you're using.
+
+In conclusion, pseudocode has been a difficult practice to get accustomed to in my coding journey, but it will be a valuable addition as well. I look forward to using it in my professional carerr.
