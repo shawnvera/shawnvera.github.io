@@ -5,7 +5,7 @@ const Week9 = () => {
     return (
         <>
             <PortfolioNavBar />
-            <div className='text-black'>
+            <div className='text-white'>
                 <h1 className='text-center font-bold'>Week 9</h1>
                 <br />
                 <p className='text-center font-light'>Awesome inc. Summer 2023 Bootcamp</p>
