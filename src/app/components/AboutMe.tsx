@@ -6,9 +6,9 @@ export default function AboutMe() {
     return (
         <>
             <div className="text-black">
-                <h1 className='text-center text-lg font-bold text-white'>About Shawn Vera</h1>
+                <h1 className='text-center text-lg font-bold text-black'>About Shawn Vera</h1>
                 <br />
-                <div className='p-5 border-4 border-solid hover:border-dotted text-white'>
+                <div className='p-5 border-4 border-solid hover:border-dotted text-black'>
                     <p>
 
                         Originally from Huntington, WV I became interested in programming during my teen years. I created a website for an online hobby I held at the time.

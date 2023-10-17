@@ -6,7 +6,7 @@ function AwesomePortrait() {
     return (
         <>
             <header>
-                <div className="flex items-center justify-center">
+                <div className="flex p-20 justify-center">
                     <div className="mask mask-hexagon">
                         <Image src={Shawn} alt="Shawn's Avatar" />
                     </div>

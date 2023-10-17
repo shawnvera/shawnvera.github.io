@@ -23,7 +23,7 @@ function PortfolioNavBar() {
         </div>
 
         <div className="navbar-center">
-          <Link href="/" className="btn normal-case text-xl text-white">HOME</Link>
+          <Link href="/" className="btn glass normal-case text-xl text-black">Home</Link>
         </div>
 
         {/* GitHub and LinkedIn icon links */}
