@@ -8,7 +8,6 @@ const about = () => {
             <PortfolioNavBar />
             <br />
             <AboutMe />
-
         </>
     )
 }
