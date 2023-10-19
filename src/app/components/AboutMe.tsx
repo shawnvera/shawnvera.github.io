@@ -5,7 +5,7 @@ export default function AboutMe() {
     return (
         <>
             <div className="text-black">
-                <h1 className='text-center text-lg font-bold text-black'>About Shawn Vera</h1>
+                <h1 className='text-center font-bold text-black font-style: italic text-xl bg-slate-300'>About Shawn Vera</h1>
                 <br />
                 <div className='p-5 border-4 border-solid hover:border-dotted text-black'>
                     <p>
