@@ -1,3 +1,4 @@
+import BlogPostsDrawer from '../../../components/BlogPostsDrawer';
 import PortfolioNavBar from '../../../components/PortfolioNavBar';
 import React from 'react';
 
@@ -5,6 +6,13 @@ const Week11 = () => {
     return (
         <>
             <PortfolioNavBar />
+
+            <div className='text-black text-center font-bold bg-contain'>
+                <BlogPostsDrawer />
+            </div>
+
+            <br />
+
             <div className='text-black'>
                 <h1 className='text-center font-bold'>Week 11</h1>
                 <br />
