@@ -26,7 +26,7 @@ const projects = [
     title: 'Inventory Controller Front End',
     description: 'A full stack web application using Javascript, React, Django REST Framework, and PostGrSQL',
     imageUrl: InventoryFE,
-    link: ''
+    link: 'https://inventory-controller-front-end-mctd-14j6rus4q-shawnvera.vercel.app/'
   },
   // Add more projects as needed
 ];
