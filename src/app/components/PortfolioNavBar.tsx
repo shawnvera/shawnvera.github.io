@@ -15,6 +15,7 @@ function PortfolioNavBar() {
                 stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h7" /></svg>
             </label>
             <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52 text-black">
+              <li><Link href="/portfolio">Portfolio</Link></li>
               <li><Link href="https://github.com/shawnvera?tab=repositories">Portfolio</Link></li>
               <li><Link href="/about">About</Link></li>
               <li><Link href="https://docs.google.com/document/d/1Ly5uWZaV--JbVKES369zlAdAaDp1EkSdl9SZFYXvzmw/edit?usp=sharing">Resume</Link></li>
