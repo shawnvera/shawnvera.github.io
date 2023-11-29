@@ -45,11 +45,11 @@ const Portfolio: React.FC = () => {
         <BlogPostsDrawer />
       </div>
 
-      <div className="projects-container">
+      {/* <div className="projects-container">
         {projects.map((project, index) => (
           <ProjectCard key={index} {...project} />
         ))}
-      </div>
+      </div> */}
 
       {/* <div className="card w-96 bg-base-100 shadow-xl">
         <div className="card-body">
