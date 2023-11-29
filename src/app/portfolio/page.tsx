@@ -20,7 +20,7 @@ const projects = [
     title: 'Tic Tac Toe',
     description: 'Javascript based web application of the classic game of tic tac toe.',
     imageUrl: TicTacToe,
-    link: ''
+    link: 'https://shawnvera.github.io/tic-tac-toe/'
   },
   {
     title: 'Inventory Controller Front End',
