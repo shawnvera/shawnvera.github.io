@@ -10,14 +10,24 @@ export default function AboutMe() {
                 <div className='p-5 border-4 border-solid hover:border-dotted text-black'>
                     <p>
 
-                        Originally from Huntington, WV I became interested in programming during my teen years. I created a website for an online hobby I held at the time.
-                        This interest led me to pursue and obtain a bachelor&apos;s degree in Management Information Systems (MIS) from Marshall University.
-                        After college I spent two years as a production planner, two years in sales, two years in banking, and nine years in logistics.
-                        In my role as Account/Customer service manager at the logistics company I worked in two warehouse management systems (Cadre Cadence
-                        and SAP). While working with these systems my interest in databases, and in programming overall grew again, as I wanted to learn more
-                        about how these systems operated. I left that role, and moved to Lexington, KY in January of 2023 deciding to make a career switch
-                        into programming by attending the Awesome Inc. Summer 2023 bootcamp. The journey into this career has been exciting and rewarding thus far.
-                        I&apos;m excited to continue learning new programming technologies and growing in my journey.
+
+                        Originally hailing from Huntington, WV, my journey into the realm of programming commenced during my adolescent years. At that time, 
+                        I developed a website dedicated to an online hobby, sparking a keen interest in the field. This initial curiosity prompted me to pursue 
+                        and successfully attain a bachelor's degree in Management Information Systems (MIS) from Marshall University.
+                        <br />
+                        <br />
+                        Post-graduation, my professional trajectory unfolded across various sectors, encompassing two years in production planning, an additional 
+                        two in sales, followed by a two-year tenure in banking, and culminating in nine years within the logistics domain. As the 
+                        Account/Customer Service Manager at a logistics company, I actively engaged with two warehouse management systems, namely 
+                        Cadre Cadence and SAP. This experience not only fortified my comprehension of these intricate systems but also reignited my passion 
+                        for databases and programming as I sought to delve deeper into their operational intricacies.
+                        <br />
+                        <br />
+                        Motivated by an unwavering enthusiasm for programming, I elected to embark on a transformative career journey, relocating to 
+                        Lexington, KY in January 2023. This marked the commencement of my transition into programming, a decision solidified by my enrollment 
+                        in the Awesome Inc. Summer 2023 bootcamp. The ongoing expedition into this dynamic field has proven to be both exhilarating and gratifying. 
+                        Eagerly anticipating the continuous assimilation of new programming technologies, I am committed to fostering continual growth in this 
+                        transformative chapter of my professional odyssey.
 
                     </p>
                 </div>
