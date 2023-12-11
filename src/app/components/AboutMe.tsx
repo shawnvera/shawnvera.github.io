@@ -9,6 +9,7 @@ export default function AboutMe() {
                 <br />
                 <div className='p-5 border-4 border-solid hover:border-dotted text-black'>
                     <p>
+                        Hello! My name is Shawn Vera. I am a software engineer.
 
 
                         Originally hailing from Huntington, WV, my journey into the realm of programming commenced during my adolescent years. At that time, 
